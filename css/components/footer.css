@@ -1,0 +1,29 @@
+.footer {
+  background-color: #537188;
+  border-radius: 3px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+
+.link ul {
+  list-style: none;
+  display: inline-flex;
+  padding: 0;
+}
+
+.link li {
+  margin: 0px 10px;
+}
+
+.link a {
+  color: aliceblue;
+  font-size: 26px;
+}
+
+.footer h3 {
+  color: aliceblue;
+  font-size: 20px;
+  margin: 10px 10px 10px 0px;
+
+}
